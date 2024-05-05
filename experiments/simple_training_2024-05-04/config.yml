@@ -1,0 +1,8 @@
+dataset: Sentences_66Agree.csv
+experiment_name: simple_training
+hyperparameters:
+  batch_size: 8
+  learning_rate: 0.001
+num_epochs: 2
+optimizer: SGD
+pretrained_model: GPT2
