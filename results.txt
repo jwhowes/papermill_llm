@@ -1,0 +1,13 @@
+**All results from test set**
+
+simple_training_accuracy:				0.9194
+simple_training_thresholded_accuracy:	0.9372
+
+simple_training_f1:						0.9062
+simple_training_thresholded_f1:			0.9269
+
+under_sampling_accuracy:				0.9064
+under_sampling_thresholded_accuracy:	0.9100
+
+under_sampling_f1:						0.8931
+under_sampling_thresholded_f1:			0.9000
